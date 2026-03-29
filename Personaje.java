@@ -14,7 +14,7 @@ public class Personaje {
         this.energia = 100;
         totalPersonajes++; // 
     }
-
+ 
    
     public String getNombre() { return nombre; }
     public void setNombre(String nombre) { this.nombre = nombre; }
